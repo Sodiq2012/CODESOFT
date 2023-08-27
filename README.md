@@ -6,7 +6,7 @@ Step 3 : Model Evaluation
 Step 4 : Model Finalization
 
 Project Problem Definition : TITANIC SURVIVAL PREDICTION
- The folowing features were used to prediction.
+ The folowing features were used for the prediction prediction.
 # passengerid = passenger number.
 # Survived : 0 = Dead, 1 = Alive.
 # Pclass 1 = First class, 2 = Second class, 3 = Third class.
